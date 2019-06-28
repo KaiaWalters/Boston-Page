@@ -3,7 +3,7 @@
 [Link to the Project: Boston Home Page](https://bostonhomepageproject.netlify.com)
 ___
 
-
+<img width="1024" alt="Screen Shot 2019-06-27 at 1 47 19 PM" src="https://user-images.githubusercontent.com/49502261/60324842-dcf6ae00-9953-11e9-8ade-c6bbdcd117d4.png">
 
 # Description
 Boston Home Page is a static website that I created to strengthen my HTML and CSS skills. 
